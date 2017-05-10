@@ -1,14 +1,14 @@
 <?php 
 
 //======================================================================
-// Variables
+// Variables 
 //======================================================================
 
 
 //E-mail address. Enter your email
 define("__TO__", "youremail@domain.com");
 
-//Success message
+//Success messages
 define('__SUCCESS_MESSAGE__', "Your message has been sent. We will reply soon. Thank you!");
 
 //Error message 
